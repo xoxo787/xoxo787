@@ -39,11 +39,15 @@
 - 수치뿐 아니라 데이터 누수와 재현 가능성도 확인합니다.
 - 결과를 다른 사람이 이해하고 다시 실행할 수 있게 정리합니다.
 
-## GitHub snapshot
+## Explore GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xoxo787&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxo787&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
+  <a href="https://github.com/xoxo787">
+    <img src="https://img.shields.io/badge/GitHub_Profile-xoxo787-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://github.com/xoxo787?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_Repositories-Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
 </p>
 
 ---
