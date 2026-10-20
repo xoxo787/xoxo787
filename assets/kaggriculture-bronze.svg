@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Kaggriculture — Bronze Medal</title>
+  <desc id="desc">Kaggle competition bronze medal. Final rank 557 of 10,148 teams, approximately top 5.5 percent. Kaggle profile xox787.</desc>
+  <rect width="1200" height="360" rx="24" fill="#171B22"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#6D513C" stroke-width="2"/>
+  <rect x="48" y="47" width="5" height="266" rx="2.5" fill="#D9A775"/>
+  <g font-family="DejaVu Sans,Arial,sans-serif">
+    <text x="80" y="79" fill="#D9A775" font-size="18" font-weight="700" letter-spacing="3">KAGGLE COMPETITION</text>
+    <text x="78" y="139" fill="#F6F4F0" font-size="46" font-weight="700">Kaggriculture</text>
+    <text x="80" y="183" fill="#D9A775" font-size="26" font-weight="600">BRONZE MEDAL</text>
+    <line x1="80" y1="211" x2="895" y2="211" stroke="#3B414A"/>
+    <text x="80" y="264" fill="#F6F4F0" font-size="34" font-weight="700">557 <tspan fill="#B9BEC7" font-size="22" font-weight="400">/ 10,148 teams</tspan></text>
+    <text x="520" y="264" fill="#F6F4F0" font-size="30" font-weight="700">TOP ≈ 5.5%</text>
+    <text x="80" y="307" fill="#B9BEC7" font-size="18">Final leaderboard · xox787</text>
+  </g>
+  <g transform="translate(1020 165)">
+    <path d="M-47 39 L-65 130 L0 98 L65 130 L47 39" fill="#825A3C"/>
+    <circle r="78" fill="#26252A" stroke="#D9A775" stroke-width="4"/>
+    <circle r="63" fill="#B68151"/>
+    <circle r="53" fill="none" stroke="#E8BD8D" stroke-width="2"/>
+    <path d="M0 -35 L10 -11 L36 -9 L16 8 L22 34 L0 20 L-22 34 L-16 8 L-36 -9 L-10 -11 Z" fill="#34271F"/>
+  </g>
+</svg>
