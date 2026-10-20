@@ -12,6 +12,7 @@
 
 ## Featured projects
 
+<p>
 <a href="https://github.com/xoxo787/clearwrite"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/project-clearwrite-dark.svg" />
   <img src="./assets/project-clearwrite-light.svg" width="100%" alt="Clearwrite. 원문·수정본·수정 이유를 한눈에. Codex·Claude CLI로 윤문하고 문체 점수와 실제 수정 비율을 확인하는 데스크톱 편집기." />
@@ -28,13 +29,16 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/project-seoul-dark.svg" />
   <img src="./assets/project-seoul-light.svg" width="100%" alt="Seoul Commercial Analysis. 서울시 유동인구와 상권 매출을 연결한 창업 입지 분석" />
 </picture></a>
+</p>
 
 ## Kaggle achievement
 
+<p>
 <a href="https://www.kaggle.com/certification/competitions/xox787/kaggriculture"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/kaggle-dark.svg" />
   <img src="./assets/kaggle-light.svg" width="100%" alt="Kaggriculture. Kaggle Bronze medal. 최종 10,148팀 중 557위, 약 상위 5.5%" />
 </picture></a>
+</p>
 
 [공식 인증서](https://www.kaggle.com/certification/competitions/xox787/kaggriculture) · [대회 기록과 출처](./achievements/kaggriculture.md)
 
