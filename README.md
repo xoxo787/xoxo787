@@ -15,6 +15,16 @@
 
 </div>
 
+## Kaggle achievement
+
+<a href="https://www.kaggle.com/certification/competitions/xox787/kaggriculture">
+  <img src="./assets/kaggriculture-bronze.svg" width="100%" alt="Kaggriculture 동메달 — 최종 10,148팀 중 557위, 약 상위 5.5%, Kaggle xox787" />
+</a>
+
+🏅 Kaggriculture · Bronze Medal · 557 / 10,148 teams · 약 상위 5.5%
+
+[공식 인증서](https://www.kaggle.com/certification/competitions/xox787/kaggriculture) · [대회 기록과 출처](./achievements/kaggriculture.md)
+
 ## About me
 
 - 🤖 AI/ML 모델을 직접 만들고, 실험 결과를 해석하는 과정을 좋아합니다.
